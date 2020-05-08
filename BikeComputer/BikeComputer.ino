@@ -14,7 +14,7 @@
 //tire radius ~ 13.5 inches
 //circumference = pi*2*r =~85 inches
 //max speed of 35kph =~ 616inches/second
-//max rps =~7.25
+//max rps =~7.25dsDS
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include "Arduino.h"
